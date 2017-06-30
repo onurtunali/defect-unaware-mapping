@@ -4,9 +4,10 @@ Defect-unaware methods determine the size of an n x n nano-crossbar in order to 
 
 Proposed algorithms use graph based models and heuristics to solve the maximum independent set problem in a complement graph. Finding the compelement graph is shown in the figure below.
 
-![comp](/fig/bipartite_complement.jpg "Complement Graph")
+<p align="center"><img src="/fig/bipartite_complement.jpg" width="600"></p>
 
 All proposed algorithms offer similar node removal heuristics, so implementation is very  straightforward once an initial coding is done.  Heuristics summary is shown in the figure below. 
 
-![her](/fig/heuristic.jpg " Heuristics")
+<p align="center"><img src="/fig/heuristic.jpg" width="600"></p>
+
 
